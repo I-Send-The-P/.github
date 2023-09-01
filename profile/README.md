@@ -1,5 +1,8 @@
 # **2023 인하대학교 SOCIAL IMPACT 해커톤 우수상**
 
+<img width="500" alt="팻말" src="https://github.com/I-Send-The-P/.github/assets/126947828/ecb4876a-f4ac-4754-a346-d36ce8962cd7">
+
+
 ### **피료해**
 
 <u></u>
@@ -39,7 +42,14 @@
 <img width="224" alt="헌혈신청완료" src="https://github.com/I-Send-The-P/.github/assets/126947828/4c0172ba-4386-4826-ba2c-02e9e8805080">
 <br>
 <hr>
-여기 리마인더로 추가 기능 넣어야 함
+
+ **추가 기능**
+ <br>
+ 헌혈 주기가 지나면 다시 헌혈할 수 있다는 문자가 사용자에게 전달
+ <br>
+<img width="605" alt="헌혈리마인더메시지" src="https://github.com/I-Send-The-P/.github/assets/126947828/48831e34-3af6-4f06-984c-19c8f14f8136">
+
+
 <br>
 <hr>
 
